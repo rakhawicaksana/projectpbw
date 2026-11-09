@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layout.app')
 
 {{-- Variabel dari TesController@index: $total, $tingkat --}}
 @section('judul', 'Tes - ' . config('kebodohan.nama'))

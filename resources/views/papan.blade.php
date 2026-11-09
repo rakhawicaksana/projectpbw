@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layout.app')
 
 @section('judul', 'Leaderboard - ' . config('kebodohan.nama'))
 

@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layout.app')
 
 {{-- Variabel dari TesController@hasil:
      $persen (kecerdasan), $ketelitian, $kecepatan, $percaya_diri, $waktu (detik), $benar, $total,
