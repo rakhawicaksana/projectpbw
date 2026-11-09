@@ -22,7 +22,7 @@
     <div class="progres" aria-hidden="true"><i id="isi-progres"></i></div>
 
     <div class="pd">
-        <span>KEPERCAYAAN DIRI</span>
+        <span>KEPERCAYAAN DIRIiii</span>
         <div class="progres" aria-hidden="true"><i id="isi-pd" style="width:100%"></i></div>
         <b id="nilai-pd">100%</b>
     </div>
